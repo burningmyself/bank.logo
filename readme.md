@@ -16,6 +16,8 @@ https://apimg.alipay.com/combo.png?d=cashier&t=*银行代码*
 
 `http://www.burningmyself.cn/bank.logo/resource/logo/ABC.png` 会生成农业银行的logo图片。
 
+`https://yangfubing.gitee.io/bank.logo/resource/logo/ABC.png` 会生成农业银行的logo图片。
+
 ## 捐赠
 
 如果你觉得这写文章能帮助到了你，你可以帮作者买一杯果汁表示鼓励
