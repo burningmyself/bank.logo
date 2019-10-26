@@ -14,9 +14,16 @@ https://apimg.alipay.com/combo.png?d=cashier&t=*银行代码*
 
 ## 银行Logo透明 API
 
-`http://www.burningmyself.cn/bank.logo/resource/logo/ABC.png` 会生成农业银行的logo图片。
+`https://s2.ax1x.com/2019/10/25/KdyWl9.png` 会生成农业银行的logo图片。
 
 `https://yangfubing.gitee.io/bank.logo/resource/logo/ABC.png` 会生成农业银行的logo图片。
+
+## js 获取银行Logo透明Url
+```js
+import bankcdoe from "resource/bankcode.json"
+//农业银行的logo
+let logourl=bankcode["ABC"].logo
+```
 
 ## 捐赠
 
